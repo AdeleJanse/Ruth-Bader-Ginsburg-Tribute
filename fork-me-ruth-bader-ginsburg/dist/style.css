@@ -1,0 +1,41 @@
+#image {
+  padding-top: 10px;
+  height: auto;
+  max-width: 330px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 35%;
+}
+
+#main {
+  margin: -1%;
+}
+
+#title {
+  font-family: "Spectral SC", serif;
+  text-align: center;
+  font-size: 60px;
+  color: #778899;
+}
+
+h3 {
+  text-align: center;
+  font-family: "Great Vibes", cursive;
+  color: #778899;
+}
+
+#img-caption {
+  font-family: "Cinzel", serif;
+  color: #778899;
+}
+
+#tribute-info {
+  font-family: Verdana;
+  color: #778899;
+}
+
+main {
+  background-color: black;
+  padding: 20px;
+}
